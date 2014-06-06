@@ -1,16 +1,19 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<malloc.h>
-int* st;
+typedef struct element{
+	int data;
+}element;
+element** st;
 int i,j;
 int st_size;
 int top=-1;
 /*******bool equivalent of c++*******************/
 enum boolean{false,true};
-enum boolean push(int el){
+enum boolean push(element* el){
            if(top==st_size-1){
 		printf("Stack full,incrementing the size by 10\n");
-		st=(int*)realloc(st,(st_size+10)*sizeof(int));/******in c++  we do it manually realloc does three tasks:
+		st=(element**)realloc(st,(st_size+10)*sizeof(element*));/******in c++  we do it manually realloc does three tasks:
 									1.copy contents of original array in a temp array
 									2.Allocate specified memory
 									3.copy back the contents from temp to original array
@@ -33,8 +36,8 @@ int pop(){
 		printf("Stack is empty\n");
 		return 0;
 		}else{ 
-			int temp=st[top];
-			st[top]=0;/*********0 is not considered here the normal element ****************/
+			int temp=st[top]->data;
+			free(st[top]);/*********0 is not considered here the normal element ****************/
 			top--;
 		     return temp;
 			}
@@ -46,7 +49,7 @@ enum boolean display_elements(){
 		}else{ 
 			int t=top;
 			while(top>=0){
-			printf("%d\t",st[top]);
+			printf("%d\t",st[top]->data);
 			top--;
 			}
 		top = t;
@@ -58,17 +61,18 @@ int peak_element(){
 		printf("Stack is empty\n");
 		return 0;
 		}else{ 
-			return st[top];
+			return st[top]->data;
 			}
 	
 }
 int main(int argc,char* argv[]){
   int new_el;
+  element* el_node;
   int ch;
 	printf("Enter the initial size of the stack to be implemented\n");
 	scanf("%d",&st_size);
 	printf("You entered \t%d\n",st_size);
-	st=(int*)malloc(st_size*sizeof(int));
+	st=(element**)malloc(st_size*sizeof(element*));
 do{
 	printf("1. Push an element\n");
 	printf("2. Pop an element\n");
@@ -83,8 +87,10 @@ do{
 		case 1:
 		printf("Eneter the integer to push on the stack\n");
 		scanf("%d",&new_el);
-		push(new_el);
-		printf("Pushed\t%d\n",st[top]);
+		el_node=(element*)malloc(sizeof(element));
+		el_node->data=new_el;
+		push(el_node);
+		printf("Pushed\t%d\n",st[top]->data);
 		break;
 		case 2:
 		new_el = pop();

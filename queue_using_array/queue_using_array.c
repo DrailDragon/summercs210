@@ -1,14 +1,17 @@
 #include<stdio.h>
 #include<stdlib.h>
-int* q;
+typedef struct element{
+	int data;
+}element;
+element** q;
 int q_size;
-int head=0,tail=0;
+int head=0,tail=0;/******tail points to one index more than last element's index************************/
 int i,j;
 enum boolean{false,true};
-enum boolean enqueue(int el){
+enum boolean enqueue(element* el){
 	if(tail==q_size){
 		printf("queue is full, incrementing queue-size by 10\n");
-		q=(int*)realloc(q,(q_size+10)*sizeof(int));
+		q=(element**)realloc(q,(q_size+10)*sizeof(element*));
 		q[tail++]=el;
 		q_size+=10;
 		}else{
@@ -23,12 +26,12 @@ enum boolean is_empty(){
 			return false;
 			}
 }
-int dequeue(){
+element* dequeue(){
 	if(is_empty()){
 		printf("Queue is empty\n");
 		return 0;
 		}else{
-			int temp=q[head];
+			element* temp=q[head];
 			for(i=0;i<tail-1;i++){
 				q[i]=q[i+1];
 				}
@@ -42,16 +45,17 @@ enum boolean display(){
 		return false;
 		}else{
 		for(i=0;i<tail;i++)
-			printf("%d\t",q[i]);
+			printf("%d\t",q[i]->data);
 		return true;
 		}
 }
 int main(int argc,char* argv[]){
 	int new_el,choice;
+	element* new_node;
 	printf("Eneter the initial size of the queue you want to implement:\n");
 	scanf("%d",&q_size);
 	printf("You entered\t%d\n",q_size);
-	q=(int*)malloc(q_size*sizeof(int));
+	q=(element**)malloc(q_size*sizeof(element*));
 	do{
 		printf("1.Enqueue an element\n");
 		printf("2.Dequeue an element\n");
@@ -65,13 +69,15 @@ int main(int argc,char* argv[]){
 		case 1:
 		printf("Enter the integer to enqueue into the queue:\n");
 		scanf("%d",&new_el);
-		if(enqueue(new_el))
-		printf("Enqueued\t%d\n",q[tail-1]);
+		new_node=(element*)malloc(sizeof(element));
+		new_node->data=new_el;
+		if(enqueue(new_node))/*****another choice element new_el enqueue(&new_el)********/
+		printf("Enqueued\t%d\n",q[tail-1]->data);
 		break;
 		case 2:
-		new_el=dequeue();
-		if(new_el!=0){
-			printf("Dequeued\t%d \n",new_el);
+		new_node=dequeue();
+		if(new_node->data!=0){
+			printf("Dequeued\t%d \n",new_node->data);
 			}
 		break;
 		case 3:

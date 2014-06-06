@@ -1,24 +1,27 @@
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct node* node_ptr;
-typedef struct node{
+typedef struct element{
 	int data;
+}element;
+typedef struct node{
+	element* elem;
 	node_ptr next;
 }node;
 node* head;
 node* tail;
 int node_count=0;/*number of nodes*/
 enum boolean{false,true};
-enum boolean enqueue(int el){
+enum boolean enqueue(element* el){
 		if(node_count==0){
 			tail=(node*)malloc(sizeof(node));
-			tail->data=el;
+			tail->elem=el;
 			tail->next=NULL;
 			head=tail;
 			node_count++;
 			}else{
 			node* temp=(node*)malloc(sizeof(node));
-			temp->data=el;
+			temp->elem=el;
 			temp->next=NULL;
 			tail->next=temp;
 			tail=temp;
@@ -56,7 +59,7 @@ enum boolean display(){
 		}else{
 			node* t=head;
 			while(t){
-			printf("%d\t",t->data);
+			printf("%d\t",t->elem->data);
 			t=t->next;
 			}
 			return true;
@@ -65,6 +68,7 @@ enum boolean display(){
 int main(){
 int choice;
 int new_el;
+element* el_node;
 node* tmp_node;
 do{
 printf("Choose the options:\n");
@@ -80,8 +84,10 @@ switch(choice){
 	case 1:
 		printf("Enter the integer to enqueue\n");
 		scanf("%d",&new_el);
-		if(enqueue(new_el)){
-			printf("%d \t Enqueued\n",tail->data);
+		el_node=(element*)malloc(sizeof(element));
+		el_node->data=new_el;
+		if(enqueue(el_node)){
+			printf("%d \t Enqueued\n",tail->elem->data);
 			break;
 			}else{
 			printf("Error enqueueing \t%d\n",new_el);
@@ -90,7 +96,7 @@ switch(choice){
 	case 2:
 		tmp_node=dequeue();
 		if(tmp_node){
-		printf("Dequeued\t%d\n",tmp_node->data);
+		printf("Dequeued\t%d\n",tmp_node->elem->data);
 		}
 		break;
 	case 3:	

@@ -1,23 +1,26 @@
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct node* node_ptr;
-typedef struct node {
+typedef struct element{
 	int data;
+}element;
+typedef struct node {
+	element* elem;
 	node_ptr next;
 }node;
 node* top;
 
 int node_count=0;/****node-count can't be used*************/
 enum boolean{false,true};
-enum boolean push(int el){
+enum boolean push(element* el){
 	if(node_count==0){
 	top=(node*)malloc(sizeof(node));
-	top->data=el;/******instead of -> . can't be used********/
+	top->elem=el;/******instead of -> . can't be used********/
 	top->next=NULL;
 	}else{  
 		node* temp;
 		temp=(node*)malloc(sizeof(node));
-		temp->data=el;
+		temp->elem=el;
 		temp->next=top;
 		top=temp;
 		}
@@ -52,7 +55,7 @@ enum boolean display_contents(){
 	else{
 		node* t=top;
 		while(t){
-		printf("%d\t",t->data);
+		printf("%d\t",t->elem->data);
 		t=t->next;
 		}
 	return true;
@@ -61,6 +64,7 @@ enum boolean display_contents(){
 int main(){
 int choice;
 int new_el;
+element* el_node;
 node* popped_el;
 do{printf("Choose the option: \n");
 printf("1.Push  \n");
@@ -75,17 +79,19 @@ switch(choice){
 	case 1:
 	printf("Enter the integer: \n");
 	scanf("%d",&new_el);
-	if(push(new_el)){
-		printf("Successfully pushed\t%d\n",top->data);
+	el_node=(element*)malloc(sizeof(element));
+	el_node->data=new_el;
+	if(push(el_node)){
+		printf("Successfully pushed\t%d\n",top->elem->data);
 		break;
 	}else{
-		printf("Error pushing the integer \n");
+		printf("Error pushing the integer \t%d\n",new_el);
 		break;
 		}
 	case 2:	
 	popped_el=pop();
 	if(popped_el){
-	printf("Popped %d \n",popped_el->data);
+	printf("Popped %d \n",popped_el->elem->data);
 	break;
 		}else{
 	break;
