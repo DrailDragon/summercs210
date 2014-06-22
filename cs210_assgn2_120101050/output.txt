@@ -1,0 +1,1391 @@
+Enter initial size of the binary tree you want to implement
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+qwewe	total count:	1	tree_size:	1
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+sdfsdf	total count:	3	tree_size:	2
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	6
+string	
+qweweleftchild	NULLright child	
+sdfsdf
+string	
+sdfsdfleftchild	NULLright child	NULL
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+ffdf	total count:	6	tree_size:	3
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	7
+Enter string to find its successor
+finding successor for the string
+qwewe
+successor choice	1
+Successor of input string	
+qweweis	
+sdfsdf
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	6
+string	
+qweweleftchild	
+ffdfright child	
+sdfsdf
+string	
+sdfsdfleftchild	NULLright child	NULL
+string	
+ffdfleftchild	NULLright child	NULL
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	9
+Inorder Traversal:
+
+ffdf	left	NULL	right	NULL
+
+qwewe	left	
+ffdf	right	
+sdfsdf
+
+sdfsdf	left	NULL	right	NULL
+
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	4
+Total number of strings assuming duplicates as separate strings is 	6
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	5
+Total number of distinct strings is 	3
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	4
+Total number of strings assuming duplicates as separate strings is 	6
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+gjy	total count:	10	tree_size:	4
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+ljhk	total count:	15	tree_size:	5
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Tree full, incrementing the size by 100
+Inserted	
+aaxasd	total count:	21	tree_size:	6
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	6
+string	
+qweweleftchild	
+ljhkright child	
+sdfsdf
+string	
+sdfsdfleftchild	NULLright child	NULL
+string	
+ffdfleftchild	
+aaxasdright child	NULL
+string	
+gjyleftchild	
+ffdfright child	
+qwewe
+string	
+ljhkleftchild	NULLright child	NULL
+string	
+aaxasdleftchild	NULLright child	NULL
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	9
+Inorder Traversal:
+
+aaxasd	left	NULL	right	NULL
+
+ffdf	left	
+aaxasd	right	NULL
+
+gjy	left	
+ffdf	right	
+qwewe
+
+ljhk	left	NULL	right	NULL
+
+qwewe	left	
+ljhk	right	
+sdfsdf
+
+sdfsdf	left	NULL	right	NULL
+
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	10
+Preorder Traversal
+
+gjy	left	
+ffdf	right	
+qwewe
+
+ffdf	left	
+aaxasd	right	NULL
+
+aaxasd	left	NULL	right	NULL
+
+qwewe	left	
+ljhk	right	
+sdfsdf
+
+ljhk	left	NULL	right	NULL
+
+sdfsdf	left	NULL	right	NULL
+
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	11
+PostOrder Traversal
+
+aaxasd	left	NULL	right	NULL
+
+ffdf	left	
+aaxasd	right	NULL
+
+ljhk	left	NULL	right	NULL
+
+sdfsdf	left	NULL	right	NULL
+
+qwewe	left	
+ljhk	right	
+sdfsdf
+
+gjy	left	
+ffdf	right	
+qwewe
+
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+vwgh	total count:	28	tree_size:	7
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+hmikhn	total count:	36	tree_size:	8
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+iyui	total count:	45	tree_size:	9
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+iopm	total count:	55	tree_size:	10
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+sercvw	total count:	56	tree_size:	11
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+dfgd	total count:	58	tree_size:	12
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	6
+string	
+qweweleftchild	
+iyuiright child	
+sercvw
+string	
+sdfsdfleftchild	NULLright child	NULL
+string	
+ffdfleftchild	NULLright child	NULL
+string	
+gjyleftchild	
+dfgdright child	
+qwewe
+string	
+ljhkleftchild	NULLright child	NULL
+string	
+aaxasdleftchild	NULLright child	NULL
+string	
+vwghleftchild	NULLright child	NULL
+string	
+hmikhnleftchild	NULLright child	
+iopm
+string	
+iyuileftchild	
+hmikhnright child	
+ljhk
+string	
+iopmleftchild	NULLright child	NULL
+string	
+sercvwleftchild	
+sdfsdfright child	
+vwgh
+string	
+dfgdleftchild	
+aaxasdright child	
+ffdf
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	1
+Enter the string and its occurence in order
+Inserted	
+ber	total count:	64	tree_size:	13
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	3
+Enter the string to find its occurences
+String	
+aaxasdhas	 6	occurences
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	3
+Enter the string to find its occurences
+String	
+qwewehas	 1	occurences
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	3
+Enter the string to find its occurences
+String	
+serhas	 -1	occurences
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	10
+Preorder Traversal
+
+iyui	left	
+gjy	right	
+qwewe
+
+gjy	left	
+dfgd	right	
+hmikhn
+
+dfgd	left	
+aaxasd	right	
+ffdf
+
+aaxasd	left	NULL	right	
+ber
+
+ber	left	NULL	right	NULL
+
+ffdf	left	NULL	right	NULL
+
+hmikhn	left	NULL	right	
+iopm
+
+iopm	left	NULL	right	NULL
+
+qwewe	left	
+ljhk	right	
+sercvw
+
+ljhk	left	NULL	right	NULL
+
+sercvw	left	
+sdfsdf	right	
+vwgh
+
+sdfsdf	left	NULL	right	NULL
+
+vwgh	left	NULL	right	NULL
+
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	6th
+6th string is	 
+hmikhn
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	4
+Total number of strings assuming duplicates as separate strings is 	64
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	1th
+1th string is	 
+aaxasd
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	2th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	3th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	4th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	5th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	6th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	7th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	8th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	9th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	10th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	11th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	12th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	13th
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	14th
+Please enter an index between 1 and 	13
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	2
+Enter k
+findind	123th
+Please enter an index between 1 and 	13
+String not found
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	4
+Total number of strings assuming duplicates as separate strings is 	64
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	5
+Total number of distinct strings is 	13
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	4
+Total number of strings assuming duplicates as separate strings is 	64
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	6
+string	
+qweweleftchild	
+ljhkright child	
+sercvw
+string	
+sdfsdfleftchild	NULLright child	NULL
+string	
+ffdfleftchild	NULLright child	NULL
+string	
+gjyleftchild	
+dfgdright child	 0ú
+string	
+ljhkleftchild	NULLright child	NULL
+string	€.úleftchild	NULLright child	
+ber
+string	
+vwghleftchild	NULLright child	NULL
+string	 0úleftchild	NULLright child	
+iopm
+string	
+iyuileftchild	
+gjyright child	
+qwewe
+string	
+iopmleftchild	NULLright child	NULL
+string	
+sercvwleftchild	
+sdfsdfright child	
+vwgh
+string	
+dfgdleftchild	€.úright child	
+ffdf
+string	
+berleftchild	NULLright child	NULL
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	7
+Enter string to find its successor
+finding successor for the string
+iopm
+successor choice	-1
+ Input string does not belong to the tree
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	5
+Total number of distinct strings is 	13
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	6
+string	
+qweweleftchild	
+ljhkright child	
+sercvw
+string	
+sdfsdfleftchild	NULLright child	NULL
+string	
+ffdfleftchild	NULLright child	NULL
+string	
+gjyleftchild	
+dfgdright child	 0ú
+string	
+ljhkleftchild	NULLright child	NULL
+string	€.úleftchild	NULLright child	
+ber
+string	
+vwghleftchild	NULLright child	NULL
+string	 0úleftchild	NULLright child	
+iopm
+string	
+iyuileftchild	
+gjyright child	
+qwewe
+string	
+iopmleftchild	NULLright child	NULL
+string	
+sercvwleftchild	
+sdfsdfright child	
+vwgh
+string	
+dfgdleftchild	€.úright child	
+ffdf
+string	
+berleftchild	NULLright child	NULL
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	7
+Enter string to find its successor
+finding successor for the string
+sdfrh
+successor choice	-1
+ Input string does not belong to the tree
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	9
+Inorder Traversal:
+€.ú	left	NULL	right	
+ber
+
+ber	left	NULL	right	NULL
+
+dfgd	left	€.ú	right	
+ffdf
+
+ffdf	left	NULL	right	NULL
+
+gjy	left	
+dfgd	right	 0ú
+ 0ú	left	NULL	right	
+iopm
+
+iopm	left	NULL	right	NULL
+
+iyui	left	
+gjy	right	
+qwewe
+
+ljhk	left	NULL	right	NULL
+
+qwewe	left	
+ljhk	right	
+sercvw
+
+sdfsdf	left	NULL	right	NULL
+
+sercvw	left	
+sdfsdf	right	
+vwgh
+
+vwgh	left	NULL	right	NULL
+
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	10
+Preorder Traversal
+
+iyui	left	
+gjy	right	
+qwewe
+
+gjy	left	
+dfgd	right	 0ú
+
+dfgd	left	€.ú	right	
+ffdf
+€.ú	left	NULL	right	
+ber
+
+ber	left	NULL	right	NULL
+
+ffdf	left	NULL	right	NULL
+ 0ú	left	NULL	right	
+iopm
+
+iopm	left	NULL	right	NULL
+
+qwewe	left	
+ljhk	right	
+sercvw
+
+ljhk	left	NULL	right	NULL
+
+sercvw	left	
+sdfsdf	right	
+vwgh
+
+sdfsdf	left	NULL	right	NULL
+
+vwgh	left	NULL	right	NULL
+
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	11
+PostOrder Traversal
+
+ber	left	NULL	right	NULL
+€.ú	left	NULL	right	
+ber
+
+ffdf	left	NULL	right	NULL
+
+dfgd	left	€.ú	right	
+ffdf
+
+iopm	left	NULL	right	NULL
+ 0ú	left	NULL	right	
+iopm
+
+gjy	left	
+dfgd	right	 0ú
+
+ljhk	left	NULL	right	NULL
+
+sdfsdf	left	NULL	right	NULL
+
+vwgh	left	NULL	right	NULL
+
+sercvw	left	
+sdfsdf	right	
+vwgh
+
+qwewe	left	
+ljhk	right	
+sercvw
+
+iyui	left	
+gjy	right	
+qwewe
+
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	7
+Enter string to find its successor
+finding successor for the string
+qwewe
+successor choice	1
+Successor of input string	
+qweweis	
+sdfsdf
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	8
+Enter the string to print its path to tree_root
+
+aaxasd->
+dfgd->
+gjy->
+iyui->NULL
+Path from string	
+aaxasd	to	
+iyui
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	8
+Enter the string to print its path to tree_root
+String does not belong to the tree
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	8
+Enter the string to print its path to tree_root
+
+dfgd->
+gjy->
+iyui->NULL
+Path from string	
+dfgd	to	
+iyui
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	8
+Enter the string to print its path to tree_root
+
+qwewe->
+iyui->NULL
+Path from string	
+qwewe	to	
+iyui
+Choose the option:
+1. Insert string and count
+2. Find kth string lexicographic order
+3. Find number of occurences of string
+4. Get total number of strings assuming duplicates as distinct strings
+5. Get total number of distinct strings
+6. Print tree
+7. Find successor
+8. Print path from the string to root
+9.Inorder Traversal
+10.Preorder Traversal
+11.PostOrder Traversal
+Enter any other option to exit
+You entered	123123
+Exiting
