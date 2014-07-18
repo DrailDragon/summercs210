@@ -1,0 +1,40 @@
+enqueue 5:
+59	57	77	90	19	
+head is 1 tail is 6
+dequeue 6:
+59	57	77	90	19	Queue empty
+-1	
+head is 6 tail is 6
+enqueue 10:
+97	36	70	14	66	91	97	95	31	Queue full
+
+head is 6 tail is 5
+dequeue 4:
+97	36	70	14	
+head is 0 tail is 5
+dequeue 1:
+66	
+head is 1 tail is 5
+enqueue 10:
+72	38	73	36	82	Queue full
+Queue full
+Queue full
+Queue full
+Queue full
+
+head is 1 tail is 0
+dequeue 10:
+91	97	95	31	72	38	73	36	82	Queue empty
+-1	
+head is 0 tail is 0
+enqueue 10:
+68	5	14	81	29	3	41	38	32	Queue full
+Queue elements are:
+68	5	14	81	29	3	41	38	32	
+
+head is 0 tail is 9
+dequeue 10:
+68	5	14	81	29	3	41	38	32	Queue empty
+-1	Queue empty
+
+head is 9 tail is 9

@@ -1,0 +1,31 @@
+Enter the sequence of integers to make bst
+34	12	4	5	34	45	-42	23	46	7	5	58	58	23	78	43	5	5	2	2	23	56	5	567	56	57	86	85	58	
+element is 34 left child is 12 right child is 45
+element is 12 left child is 4 right child is 34
+element is 4 left child is -42 right child is 5
+element is -42 left child is -1 right child is 2
+element is 2 left child is 2 right child is -1
+element is 2 left child is -1 right child is -1
+element is 5 left child is 5 right child is 7
+element is 5 left child is 5 right child is -1
+element is 5 left child is 5 right child is -1
+element is 5 left child is 5 right child is -1
+element is 5 left child is -1 right child is -1
+element is 7 left child is -1 right child is -1
+element is 34 left child is 23 right child is -1
+element is 23 left child is 23 right child is -1
+element is 23 left child is 23 right child is -1
+element is 23 left child is -1 right child is -1
+element is 45 left child is 43 right child is 46
+element is 43 left child is -1 right child is -1
+element is 46 left child is -1 right child is 58
+element is 58 left child is 58 right child is 78
+element is 58 left child is 56 right child is -1
+element is 56 left child is 56 right child is 57
+element is 56 left child is -1 right child is -1
+element is 57 left child is -1 right child is 58
+element is 58 left child is -1 right child is -1
+element is 78 left child is -1 right child is 567
+element is 567 left child is 86 right child is -1
+element is 86 left child is 85 right child is -1
+element is 85 left child is -1 right child is -1

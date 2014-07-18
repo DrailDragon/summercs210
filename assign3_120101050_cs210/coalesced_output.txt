@@ -1,0 +1,992 @@
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	1
+Empty Table of size 	32	created
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:26
+key:P	value:gk	inserted at index	26
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:8
+key:oV	value:wGE	inserted at index	8
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:17
+key:hUG	value:VHJM	inserted at index	17
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:9
+key:Pkto	value:IPZLH	inserted at index	9
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:11
+key:ozYpZ	value:GbOolF	inserted at index	11
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:23
+key:jjlpqH	value:yOohAdU	inserted at index	23
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:12
+key:vsCkTPt	value:iosxPAyE	inserted at index	12
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:23
+key:OlLzuWPn	value:DPDtWdxQy	inserted at index	31
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:12
+key:rUkMJDUAx	value:TpzTvPegpb	inserted at index	30
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:13
+key:EGQJvtdTwc	value:mwVgiHsneSn	inserted at index	13
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:15
+key:XJMRHexNtyU	value:BQDyjirhMDfj	inserted at index	15
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:24
+key:mntEBxYquHcN	value:oglEblyecDCNo	inserted at index	24
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:25
+key:UVCxaMlQfPTCN	value:jyXlmNUZrxkrCO	inserted at index	25
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:23
+key:xeCLYxnYZBjriB	value:kmQtLNhzBbyuakM	inserted at index	29
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:24
+key:CZLHBwhAlHbpttx	value:wDKmzXCGwFjwZjGn	inserted at index	28
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:15
+key:oFYVguEiiOkxhfwD	value:kgrJdTRbyaxyMenaJ	inserted at index	27
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:17
+cellar full,keys of this hash value can't be inserted further
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:18
+key:wLpNzhmtvrZrmorDvt	value:UfuJYzLunCOyBkjQYkz	inserted at index	18
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:6
+key:MfwdeOStHvqCpvWAWvl	value:SlNGJoRSHrcIFifIOvAJ	inserted at index	6
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	2
+Enter key-value pair to insert
+Home pos:24
+cellar full,keys of this hash value can't be inserted further
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	6
+home:0
+EMPTYKEY
+home:1
+EMPTYKEY
+home:2
+EMPTYKEY
+home:3
+EMPTYKEY
+home:4
+EMPTYKEY
+home:5
+EMPTYKEY
+home:6
+key:MfwdeOStHvqCpvWAWvl	value:SlNGJoRSHrcIFifIOvAJ
+home:7
+EMPTYKEY
+home:8
+key:oV	value:wGE
+home:9
+key:Pkto	value:IPZLH
+home:10
+EMPTYKEY
+home:11
+key:ozYpZ	value:GbOolF
+home:12
+key:vsCkTPt	value:iosxPAyE
+key:rUkMJDUAx	value:TpzTvPegpb
+home:13
+key:EGQJvtdTwc	value:mwVgiHsneSn
+home:14
+EMPTYKEY
+home:15
+key:XJMRHexNtyU	value:BQDyjirhMDfj
+key:oFYVguEiiOkxhfwD	value:kgrJdTRbyaxyMenaJ
+home:16
+EMPTYKEY
+home:17
+key:hUG	value:VHJM
+home:18
+key:wLpNzhmtvrZrmorDvt	value:UfuJYzLunCOyBkjQYkz
+home:19
+EMPTYKEY
+home:20
+EMPTYKEY
+home:21
+EMPTYKEY
+home:22
+EMPTYKEY
+home:23
+key:jjlpqH	value:yOohAdU
+key:OlLzuWPn	value:DPDtWdxQy
+key:xeCLYxnYZBjriB	value:kmQtLNhzBbyuakM
+home:24
+key:mntEBxYquHcN	value:oglEblyecDCNo
+key:CZLHBwhAlHbpttx	value:wDKmzXCGwFjwZjGn
+home:25
+key:UVCxaMlQfPTCN	value:jyXlmNUZrxkrCO
+home:26
+key:P	value:gk
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:ozYpZ	value:GbOolF	Found at pos:11
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:vsCkTPt	value:iosxPAyE	Found at pos:12
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:wLpNzhmtvrZrmorDvt	value:UfuJYzLunCOyBkjQYkz	Found at pos:18
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:mxsibcqPOpyToDeuV	not found
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:UVCxaMlQfPTCN	value:jyXlmNUZrxkrCO	Found at pos:25
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:P	value:gk	Found at pos:26
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:CZLHBwhAlHbpttx	value:wDKmzXCGwFjwZjGn	Found at pos:28
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:EGQJvtdTwc	value:mwVgiHsneSn	Found at pos:13
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:oFYVguEiiOkxhfwD	value:kgrJdTRbyaxyMenaJ	Found at pos:27
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:EGQJvtdTwc	value:mwVgiHsneSn	Found at pos:13
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:oFYVguEiiOkxhfwD	value:kgrJdTRbyaxyMenaJ	Found at pos:27
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:jjlpqH	value:yOohAdU	Found at pos:23
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:XJMRHexNtyU	value:BQDyjirhMDfj	Found at pos:15
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:UVCxaMlQfPTCN	value:jyXlmNUZrxkrCO	Found at pos:25
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:MfwdeOStHvqCpvWAWvl	value:SlNGJoRSHrcIFifIOvAJ	Found at pos:6
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:xeCLYxnYZBjriB	value:kmQtLNhzBbyuakM	Found at pos:29
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:OlLzuWPn	value:DPDtWdxQy	Found at pos:31
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:ozYpZ	value:GbOolF	Found at pos:11
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:rUkMJDUAx	value:TpzTvPegpb	Found at pos:30
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	3
+Enter key to search for element
+Element with key:wLpNzhmtvrZrmorDvt	value:UfuJYzLunCOyBkjQYkz	Found at pos:18
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	6
+home:0
+EMPTYKEY
+home:1
+EMPTYKEY
+home:2
+EMPTYKEY
+home:3
+EMPTYKEY
+home:4
+EMPTYKEY
+home:5
+EMPTYKEY
+home:6
+key:MfwdeOStHvqCpvWAWvl	value:SlNGJoRSHrcIFifIOvAJ
+home:7
+EMPTYKEY
+home:8
+key:oV	value:wGE
+home:9
+key:Pkto	value:IPZLH
+home:10
+EMPTYKEY
+home:11
+key:ozYpZ	value:GbOolF
+home:12
+key:vsCkTPt	value:iosxPAyE
+key:rUkMJDUAx	value:TpzTvPegpb
+home:13
+key:EGQJvtdTwc	value:mwVgiHsneSn
+home:14
+EMPTYKEY
+home:15
+key:XJMRHexNtyU	value:BQDyjirhMDfj
+key:oFYVguEiiOkxhfwD	value:kgrJdTRbyaxyMenaJ
+home:16
+EMPTYKEY
+home:17
+key:hUG	value:VHJM
+home:18
+key:wLpNzhmtvrZrmorDvt	value:UfuJYzLunCOyBkjQYkz
+home:19
+EMPTYKEY
+home:20
+EMPTYKEY
+home:21
+EMPTYKEY
+home:22
+EMPTYKEY
+home:23
+key:jjlpqH	value:yOohAdU
+key:OlLzuWPn	value:DPDtWdxQy
+key:xeCLYxnYZBjriB	value:kmQtLNhzBbyuakM
+home:24
+key:mntEBxYquHcN	value:oglEblyecDCNo
+key:CZLHBwhAlHbpttx	value:wDKmzXCGwFjwZjGn
+home:25
+key:UVCxaMlQfPTCN	value:jyXlmNUZrxkrCO
+home:26
+key:P	value:gk
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	4
+Enter key to get its hashed value
+Hashed Value of the key 	CZLHBwhAlHbpttx	 is	24
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	4
+Enter key to get its hashed value
+Hashed Value of the key 	vsCkTPt	 is	12
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	4
+Enter key to get its hashed value
+Hashed Value of the key 	Pkto	 is	9
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	4
+Enter key to get its hashed value
+Hashed Value of the key 	mntEBxYquHcN	 is	24
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	4
+Enter key to get its hashed value
+Hashed Value of the key 	mntEBxYquHcN	 is	24
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	4
+Enter key to get its hashed value
+Hashed Value of the key 	OlLzuWPn	 is	23
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	4
+Enter key to get its hashed value
+Hashed Value of the key 	XJMRHexNtyU	 is	15
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	4
+Enter key to get its hashed value
+Hashed Value of the key 	mxsibcqPOpyToDeuV	 is	17
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	4
+Enter key to get its hashed value
+Hashed Value of the key 	Pkto	 is	9
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	4
+Enter key to get its hashed value
+Hashed Value of the key 	cxaFovBOTzCLKRstILNR	 is	24
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	6
+home:0
+EMPTYKEY
+home:1
+EMPTYKEY
+home:2
+EMPTYKEY
+home:3
+EMPTYKEY
+home:4
+EMPTYKEY
+home:5
+EMPTYKEY
+home:6
+key:MfwdeOStHvqCpvWAWvl	value:SlNGJoRSHrcIFifIOvAJ
+home:7
+EMPTYKEY
+home:8
+key:oV	value:wGE
+home:9
+key:Pkto	value:IPZLH
+home:10
+EMPTYKEY
+home:11
+key:ozYpZ	value:GbOolF
+home:12
+key:vsCkTPt	value:iosxPAyE
+key:rUkMJDUAx	value:TpzTvPegpb
+home:13
+key:EGQJvtdTwc	value:mwVgiHsneSn
+home:14
+EMPTYKEY
+home:15
+key:XJMRHexNtyU	value:BQDyjirhMDfj
+key:oFYVguEiiOkxhfwD	value:kgrJdTRbyaxyMenaJ
+home:16
+EMPTYKEY
+home:17
+key:hUG	value:VHJM
+home:18
+key:wLpNzhmtvrZrmorDvt	value:UfuJYzLunCOyBkjQYkz
+home:19
+EMPTYKEY
+home:20
+EMPTYKEY
+home:21
+EMPTYKEY
+home:22
+EMPTYKEY
+home:23
+key:jjlpqH	value:yOohAdU
+key:OlLzuWPn	value:DPDtWdxQy
+key:xeCLYxnYZBjriB	value:kmQtLNhzBbyuakM
+home:24
+key:mntEBxYquHcN	value:oglEblyecDCNo
+key:CZLHBwhAlHbpttx	value:wDKmzXCGwFjwZjGn
+home:25
+key:UVCxaMlQfPTCN	value:jyXlmNUZrxkrCO
+home:26
+key:P	value:gk
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	7
+Enter key to be deleted for element
+Element with key:xeCLYxnYZBjriB	value:kmQtLNhzBbyuakM	at index	29	deleted
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	7
+Enter key to be deleted for element
+Element with key:rUkMJDUAx	value:TpzTvPegpb	at index	30	deleted
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	7
+Enter key to be deleted for element
+Element with key:wLpNzhmtvrZrmorDvt	value:UfuJYzLunCOyBkjQYkz	at index	18	deleted
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	7
+Enter key to be deleted for element
+Element with key:mntEBxYquHcN	value:oglEblyecDCNo	at index	24	deleted
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	7
+Enter key to be deleted for element
+Element with key:ozYpZ	value:GbOolF	at index	11	deleted
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	7
+Enter key to be deleted for element
+Element with key:EGQJvtdTwc	value:mwVgiHsneSn	at index	13	deleted
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	7
+Enter key to be deleted for element
+Element with key:Pkto	value:IPZLH	at index	9	deleted
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	7
+Enter key to be deleted for element
+Element with key:XJMRHexNtyU	value:BQDyjirhMDfj	at index	15	deleted
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	7
+Enter key to be deleted for element
+Element with key:MfwdeOStHvqCpvWAWvl	value:SlNGJoRSHrcIFifIOvAJ	at index	6	deleted
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	7
+Enter key to be deleted for element
+Element with key:cxaFovBOTzCLKRstILNR	not found
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	6
+home:0
+EMPTYKEY
+home:1
+EMPTYKEY
+home:2
+EMPTYKEY
+home:3
+EMPTYKEY
+home:4
+EMPTYKEY
+home:5
+EMPTYKEY
+home:6
+EMPTYKEY
+home:7
+EMPTYKEY
+home:8
+key:oV	value:wGE
+home:9
+EMPTYKEY
+home:10
+EMPTYKEY
+home:11
+EMPTYKEY
+home:12
+key:vsCkTPt	value:iosxPAyE
+EMPTYKEY
+home:13
+EMPTYKEY
+home:14
+EMPTYKEY
+home:15
+key:oFYVguEiiOkxhfwD	value:kgrJdTRbyaxyMenaJ
+EMPTYKEY
+home:16
+EMPTYKEY
+home:17
+key:hUG	value:VHJM
+home:18
+EMPTYKEY
+home:19
+EMPTYKEY
+home:20
+EMPTYKEY
+home:21
+EMPTYKEY
+home:22
+EMPTYKEY
+home:23
+key:jjlpqH	value:yOohAdU
+key:OlLzuWPn	value:DPDtWdxQy
+EMPTYKEY
+home:24
+key:CZLHBwhAlHbpttx	value:wDKmzXCGwFjwZjGn
+EMPTYKEY
+home:25
+key:UVCxaMlQfPTCN	value:jyXlmNUZrxkrCO
+home:26
+key:P	value:gk
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	5
+Table deleted
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	6
+First create empty table
+Choose the option:
+1.Create new table
+2.Insert new element
+3.Search element
+4.Get hashed value of a key
+5.Delete table
+6.Print key-value pairs of the table
+7.Delete element
+You entered	6534534
+Exiting.

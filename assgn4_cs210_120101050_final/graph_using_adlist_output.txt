@@ -1,0 +1,858 @@
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:1
+Enter the initial number of nodes you want in the graph
+Empty graph of size:4 created
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 0 and 1
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:3
+Enter the two vertices to delete edge between them
+Edge between 0 and 1 deleted
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:7
+0	
+1	
+2	
+3	
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:4
+Enter the vertex to start bfs from
+vertex is:0	ancestor is -1depth from source vertex is:0
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:5
+Enter the vertex to start dfs from
+vertex is:0	ancestor is -1depth from source vertex is:0
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 1 and 2
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 1 and 3
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 2 and 3
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 0 and 1
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 0 and 3
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:3
+Enter the two vertices to delete edge between them
+Edge between 1 and 2 deleted
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:7
+0	1	3	
+1	3	0	
+2	3	
+3	1	2	0	
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:4
+Enter the vertex to start bfs from
+vertex is:0	ancestor is -1depth from source vertex is:0
+vertex is:1	ancestor is 0depth from source vertex is:1
+vertex is:3	ancestor is 0depth from source vertex is:1
+vertex is:2	ancestor is 3depth from source vertex is:2
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:4
+Enter the vertex to start bfs from
+vertex is:1	ancestor is -1depth from source vertex is:0
+vertex is:3	ancestor is 1depth from source vertex is:1
+vertex is:0	ancestor is 1depth from source vertex is:1
+vertex is:2	ancestor is 3depth from source vertex is:2
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:4
+Enter the vertex to start bfs from
+vertex is:2	ancestor is -1depth from source vertex is:0
+vertex is:3	ancestor is 2depth from source vertex is:1
+vertex is:1	ancestor is 3depth from source vertex is:2
+vertex is:0	ancestor is 3depth from source vertex is:2
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:4
+Enter the vertex to start bfs from
+vertex is:3	ancestor is -1depth from source vertex is:0
+vertex is:1	ancestor is 3depth from source vertex is:1
+vertex is:2	ancestor is 3depth from source vertex is:1
+vertex is:0	ancestor is 3depth from source vertex is:1
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:7
+0	1	3	
+1	3	0	
+2	3	
+3	1	2	0	
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:5
+Enter the vertex to start dfs from
+vertex is:0	ancestor is -1depth from source vertex is:0
+vertex is:3	ancestor is 0depth from source vertex is:1
+vertex is:2	ancestor is 3depth from source vertex is:2
+vertex is:1	ancestor is 3depth from source vertex is:2
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:5
+Enter the vertex to start dfs from
+vertex is:1	ancestor is -1depth from source vertex is:0
+vertex is:0	ancestor is 1depth from source vertex is:1
+vertex is:3	ancestor is 0depth from source vertex is:2
+vertex is:2	ancestor is 3depth from source vertex is:3
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:5
+Enter the vertex to start dfs from
+vertex is:2	ancestor is -1depth from source vertex is:0
+vertex is:3	ancestor is 2depth from source vertex is:1
+vertex is:0	ancestor is 3depth from source vertex is:2
+vertex is:1	ancestor is 0depth from source vertex is:3
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:5
+Enter the vertex to start dfs from
+vertex is:3	ancestor is -1depth from source vertex is:0
+vertex is:0	ancestor is 3depth from source vertex is:1
+vertex is:1	ancestor is 0depth from source vertex is:2
+vertex is:2	ancestor is 3depth from source vertex is:1
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:6
+Enter the new size of the graph you want
+graph size incremented to 8
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:7
+0	1	3	
+1	3	0	
+2	3	
+3	1	2	0	
+4	
+5	
+6	
+7	
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 0 and 5
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 2 and 7
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 5 and 7
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 6 and 7
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 4 and 7
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 1 and 6
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 2 and 5
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:7
+0	1	3	5	
+1	3	0	6	
+2	3	7	5	
+3	1	2	0	
+4	7	
+5	0	7	2	
+6	7	1	
+7	2	5	6	4	
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:7
+0	1	3	5	
+1	3	0	6	
+2	3	7	5	
+3	1	2	0	
+4	7	
+5	0	7	2	
+6	7	1	
+7	2	5	6	4	
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:4
+Enter the vertex to start bfs from
+vertex is:0	ancestor is -1depth from source vertex is:0
+vertex is:1	ancestor is 0depth from source vertex is:1
+vertex is:3	ancestor is 0depth from source vertex is:1
+vertex is:5	ancestor is 0depth from source vertex is:1
+vertex is:6	ancestor is 1depth from source vertex is:2
+vertex is:2	ancestor is 3depth from source vertex is:2
+vertex is:7	ancestor is 5depth from source vertex is:2
+vertex is:4	ancestor is 7depth from source vertex is:3
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:5
+Enter the vertex to start dfs from
+vertex is:0	ancestor is -1depth from source vertex is:0
+vertex is:5	ancestor is 0depth from source vertex is:1
+vertex is:2	ancestor is 5depth from source vertex is:2
+vertex is:7	ancestor is 2depth from source vertex is:3
+vertex is:4	ancestor is 7depth from source vertex is:4
+vertex is:6	ancestor is 7depth from source vertex is:4
+vertex is:1	ancestor is 6depth from source vertex is:5
+vertex is:3	ancestor is 1depth from source vertex is:6
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:7
+0	1	3	5	
+1	3	0	6	
+2	3	7	5	
+3	1	2	0	
+4	7	
+5	0	7	2	
+6	7	1	
+7	2	5	6	4	
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:8
+Enter the vertex to start bfs from
+Component 1:
+vertex is 0 ancestor is -1 depth from source vertex is 0
+vertex is 1 ancestor is 0 depth from source vertex is 1
+vertex is 3 ancestor is 0 depth from source vertex is 1
+vertex is 5 ancestor is 0 depth from source vertex is 1
+vertex is 6 ancestor is 1 depth from source vertex is 2
+vertex is 2 ancestor is 3 depth from source vertex is 2
+vertex is 7 ancestor is 5 depth from source vertex is 2
+vertex is 4 ancestor is 7 depth from source vertex is 3
+Number of components in the graph is 1
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:8
+Enter the vertex to start bfs from
+Component 1:
+vertex is 4 ancestor is -1 depth from source vertex is 0
+vertex is 7 ancestor is 4 depth from source vertex is 1
+vertex is 2 ancestor is 7 depth from source vertex is 2
+vertex is 5 ancestor is 7 depth from source vertex is 2
+vertex is 6 ancestor is 7 depth from source vertex is 2
+vertex is 3 ancestor is 2 depth from source vertex is 3
+vertex is 0 ancestor is 5 depth from source vertex is 3
+vertex is 1 ancestor is 6 depth from source vertex is 3
+Number of components in the graph is 1
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:9
+Enter the vertex to start dfs from
+Component 1:
+vertex is 0 ancestor is -1 depth from source vertex is 0
+vertex is 5 ancestor is 0 depth from source vertex is 1
+vertex is 2 ancestor is 5 depth from source vertex is 2
+vertex is 7 ancestor is 2 depth from source vertex is 3
+vertex is 4 ancestor is 7 depth from source vertex is 4
+vertex is 6 ancestor is 7 depth from source vertex is 4
+vertex is 1 ancestor is 6 depth from source vertex is 5
+vertex is 3 ancestor is 1 depth from source vertex is 6
+Number of components in the graph is 1
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:9
+Enter the vertex to start dfs from
+Component 1:
+vertex is 4 ancestor is -1 depth from source vertex is 0
+vertex is 7 ancestor is 4 depth from source vertex is 1
+vertex is 6 ancestor is 7 depth from source vertex is 2
+vertex is 1 ancestor is 6 depth from source vertex is 3
+vertex is 0 ancestor is 1 depth from source vertex is 4
+vertex is 5 ancestor is 0 depth from source vertex is 5
+vertex is 2 ancestor is 5 depth from source vertex is 6
+vertex is 3 ancestor is 2 depth from source vertex is 7
+Number of components in the graph is 1
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:6
+Enter the new size of the graph you want
+graph size incremented to 13
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:2
+Enter the two vertices to add edge between them
+Edge added between 11 and 10
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:7
+0	1	3	5	
+1	3	0	6	
+2	3	7	5	
+3	1	2	0	
+4	7	
+5	0	7	2	
+6	7	1	
+7	2	5	6	4	
+8	
+9	
+10	11	
+11	10	
+12	
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:8
+Enter the vertex to start bfs from
+Component 1:
+vertex is 0 ancestor is -1 depth from source vertex is 0
+vertex is 1 ancestor is 0 depth from source vertex is 1
+vertex is 3 ancestor is 0 depth from source vertex is 1
+vertex is 5 ancestor is 0 depth from source vertex is 1
+vertex is 6 ancestor is 1 depth from source vertex is 2
+vertex is 2 ancestor is 3 depth from source vertex is 2
+vertex is 7 ancestor is 5 depth from source vertex is 2
+vertex is 4 ancestor is 7 depth from source vertex is 3
+Component 2:
+vertex is 12 ancestor is -1 depth from source vertex is 0
+Component 3:
+vertex is 11 ancestor is -1 depth from source vertex is 0
+vertex is 10 ancestor is 11 depth from source vertex is 1
+Component 4:
+vertex is 9 ancestor is -1 depth from source vertex is 0
+Component 5:
+vertex is 8 ancestor is -1 depth from source vertex is 0
+Number of components in the graph is 5
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:9
+Enter the vertex to start dfs from
+Component 1:
+vertex is 0 ancestor is -1 depth from source vertex is 0
+vertex is 5 ancestor is 0 depth from source vertex is 1
+vertex is 2 ancestor is 5 depth from source vertex is 2
+vertex is 7 ancestor is 2 depth from source vertex is 3
+vertex is 4 ancestor is 7 depth from source vertex is 4
+vertex is 6 ancestor is 7 depth from source vertex is 4
+vertex is 1 ancestor is 6 depth from source vertex is 5
+vertex is 3 ancestor is 1 depth from source vertex is 6
+Component 2:
+vertex is 12 ancestor is -1 depth from source vertex is 0
+Component 3:
+vertex is 11 ancestor is -1 depth from source vertex is 0
+vertex is 10 ancestor is 11 depth from source vertex is 1
+Component 4:
+vertex is 9 ancestor is -1 depth from source vertex is 0
+Component 5:
+vertex is 8 ancestor is -1 depth from source vertex is 0
+Number of components in the graph is 5
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:8
+Enter the vertex to start bfs from
+Component 1:
+vertex is 11 ancestor is -1 depth from source vertex is 0
+vertex is 10 ancestor is 11 depth from source vertex is 1
+Component 2:
+vertex is 12 ancestor is -1 depth from source vertex is 0
+Component 3:
+vertex is 9 ancestor is -1 depth from source vertex is 0
+Component 4:
+vertex is 8 ancestor is -1 depth from source vertex is 0
+Component 5:
+vertex is 7 ancestor is -1 depth from source vertex is 0
+vertex is 2 ancestor is 7 depth from source vertex is 1
+vertex is 5 ancestor is 7 depth from source vertex is 1
+vertex is 6 ancestor is 7 depth from source vertex is 1
+vertex is 4 ancestor is 7 depth from source vertex is 1
+vertex is 3 ancestor is 2 depth from source vertex is 2
+vertex is 0 ancestor is 5 depth from source vertex is 2
+vertex is 1 ancestor is 6 depth from source vertex is 2
+Number of components in the graph is 5
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:9
+Enter the vertex to start dfs from
+Component 1:
+vertex is 11 ancestor is -1 depth from source vertex is 0
+vertex is 10 ancestor is 11 depth from source vertex is 1
+Component 2:
+vertex is 12 ancestor is -1 depth from source vertex is 0
+Component 3:
+vertex is 9 ancestor is -1 depth from source vertex is 0
+Component 4:
+vertex is 8 ancestor is -1 depth from source vertex is 0
+Component 5:
+vertex is 7 ancestor is -1 depth from source vertex is 0
+vertex is 4 ancestor is 7 depth from source vertex is 1
+vertex is 6 ancestor is 7 depth from source vertex is 1
+vertex is 1 ancestor is 6 depth from source vertex is 2
+vertex is 0 ancestor is 1 depth from source vertex is 3
+vertex is 5 ancestor is 0 depth from source vertex is 4
+vertex is 2 ancestor is 5 depth from source vertex is 5
+vertex is 3 ancestor is 2 depth from source vertex is 6
+Number of components in the graph is 5
+Choose the option:
+1.Create new empty graph
+2.Add edge
+3.Delete edge
+4.bfs
+5.dfs
+6.Increment graph-size
+7.Print list
+8.bfs with number of components
+9.dfs with number of components
+Enter any other integer to exit
+You entered:12312
+Exiting
